@@ -12,10 +12,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="nolan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nolan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nolan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/nolan
 [instagram]: https://www.instagram.com/nolan
 [linkedin]: https://linkedin.com/in/nolan
