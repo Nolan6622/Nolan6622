@@ -9,5 +9,5 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Nolan6622/configure-ad)
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="nolan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nolan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 [instagram]: (https://www.instagram.com/ndempsay22/)[linkedin]: https://linkedin.com/in/nolandempsay
